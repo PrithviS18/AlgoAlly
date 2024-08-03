@@ -1,4 +1,3 @@
-import './App.css'
 import { Routes, Route } from "react-router-dom";
 import Profile from "./Profile/Profile.jsx"
 import Home from './Home/Home.jsx';
