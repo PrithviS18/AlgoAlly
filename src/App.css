@@ -1,3 +1,6 @@
 #root{
+  box-sizing: none;
+}
+#root{
   background-color: blue;
 }
